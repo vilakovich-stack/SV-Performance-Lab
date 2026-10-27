@@ -1,0 +1,12 @@
+{
+  "name": "sv-performance-lab",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "0.10.22"
+  }
+}
